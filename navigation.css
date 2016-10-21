@@ -1,0 +1,17 @@
+
+body {
+  font-size: 18px;
+}
+
+
+/* mouse over link */
+a:hover {
+    color: red;
+    background-color: grey;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+    padding: 5px;
+}
